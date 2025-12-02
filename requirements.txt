@@ -421,7 +421,7 @@ orjson==3.11.4
 ormsgpack==1.12.0
 osqp==1.0.5
 overrides==7.7.0
-packaging==25.0
+packaging==23.2
 pandas==2.2.2
 pandas-datareader==0.10.0
 pandas-gbq==0.30.0
@@ -621,6 +621,7 @@ tensorflow-metadata==1.17.2
 tensorflow-probability==0.25.0
 tensorflow-text==2.19.0
 tensorflow_decision_forests==1.12.0
+tensorflowjs==4.22.0
 tensorstore==0.1.79
 termcolor==3.2.0
 terminado==0.18.1
