@@ -2,6 +2,7 @@
 
 ## Deskripsi Proyek
 Proyek ini adalah implementasi model **Klasifikasi Gambar** menggunakan **Deep Learning** (Jaringan Saraf Tiruan Konvolusional / CNN) dan teknik **Transfer Learning** untuk mengklasifikasikan gambar sebagai **Kucing (Cats)** atau **Anjing (Dogs)**.
+link dataset: https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs
 
 Proyek ini bertujuan untuk membangun model dengan akurasi tinggi menggunakan arsitektur modern seperti MobileNetV2 atau EfficientNetB0.
 
