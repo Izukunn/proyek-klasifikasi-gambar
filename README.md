@@ -17,5 +17,5 @@ Untuk menjalankan proyek ini, Anda memerlukan lingkungan Python 3.x.
 
 ### 1. Kloning Repositori
 ```bash
-git clone [<LINK_REPOSITORI_ANDA>](https://github.com/Izukunn/proyek-klasifikasi-gambar)
-cd <ProyekKlasifikasiGambar>
+git clone [https://github.com/Izukunn/proyek-klasifikasi-gambar](https://github.com/Izukunn/proyek-klasifikasi-gambar)
+cd proyek-klasifikasi-gambar
